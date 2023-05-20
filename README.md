@@ -11,7 +11,7 @@ Pix2Pix is a deep learning model that can be used to remove noise from images. P
 - Use the trained model to denoise new images.
 - The following steps provide more details on how to collect a dataset, train a Pix2Pix model, and denoise new images.
 
-##The following are some of the advantages of using Pix2Pix for noise reduction:
+## The following are some of the advantages of using Pix2Pix for noise reduction:
 
 ### Pix2Pix can remove a variety of noise types, including Gaussian noise, salt-and-pepper noise, and speckle noise.
 1. Pix2Pix can preserve the details of the image, even when the noise is severe.
